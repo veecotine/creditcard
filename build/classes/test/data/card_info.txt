@@ -1,0 +1,203 @@
+0,0,0,Thẻ tín dụng Vietcombank Visa Chuẩn,5000000,50000000,4000000,0.png
+1,0,0,Thẻ tín dụng Vietcombank American Express®,5000000,100000000,4000000,1.png
+2,0,0,Thẻ tín dụng Vietcombank JCB Chuẩn,5000000,50000000,4000000,2.png
+3,0,0,Thẻ tín dụng Vietcombank Vietnam Airlines American Express®,5000000,100000000,4000000,3.png
+4,0,0,Thẻ tín dụng quốc tế đồng thương hiệu Vietcombank Vietravel Visa,10000000,300000000,10000000,4.png
+5,0,0,Thẻ tín dụng quốc tế đồng thương hiệu Vietcombank Diamond Plaza Visa,10000000,300000000,4000000,5.png
+6,0,0,Thẻ tín dụng đồng thương hiệu Saigon centre - Takashimaya - Vietcombank JCB,50000000,1000000000000000000,4000000,6.png
+7,0,0,Thẻ tín dụng đồng thương hiệu Saigon centre - Takashimaya - Vietcombank Visa hạng Chuẩn,50000000,1000000000000000000,4000000,7.png
+8,0,1,Vietcombank visa vàng,50000000,300000000,7000000,8.png
+9,0,1,Thẻ tín dụng quốc tế Vietcombank Unionpay,50000000,300000000,7000000,9.png
+10,0,1,Thẻ tín dụng Vietcombank American Express® vàng,100000000,500000000,15000000,10.png
+11,0,1,Vietcombank Vietnam Airlines American express ( Thẻ Amex Bông sen vàng ),100000000,300000000,15000000,11.png
+12,0,1,Vietcombank JCB vàng,50000000,300000000,7000000,12.png
+13,0,1,Thẻ tín dụng đồng thương hiệu Saigon centre - Takashimaya - Vietcombank Visa hạng Vàng,300000000,1000000000000000000,4000000,13.png
+14,0,2,Thẻ tín dụng Vietcombank Vietnam Airlines Platinum American Express®,200000000,1000000000,20000000,14.png
+15,0,2,Thẻ tín dụng quốc tế Vietcombank Visa Platinum,150000000,1000000000,18000000,15.png
+16,0,2,Vietcombank CashPlus Platinum american express,100000000,1000000000,20000000,16.png
+17,0,3,Thẻ Đồng Thương Hiệu Co.opmart – Vietcombank,20000000,50000000,5000000,17.png
+18,1,0,Thẻ tín dụng quốc tế Vietinbank Cremium Visa chuẩn,10000000,49000000,2000000,18.png
+19,1,0,Thẻ tín dụng quốc tế Vietinbank Cremium MasterCard chuẩn,10000000,49000000,2000000,19.png
+20,1,0,Thẻ tín dụng quốc tế Vietinbank Cremium JCB chuẩn,10000000,49000000,2000000,20.png
+21,1,1,Thẻ tín dụng quốc tế Vietinbank Cremium Visa vàng,50000000,299000000,7000000,21.png
+22,1,1,Thẻ tín dụng quốc tế Vietinbank Cremium JCB vàng,50000000,299000000,7000000,22.png
+23,1,1,Thẻ tín dụng quốc tế Vietinbank Cremium MasterCard vàng,50000000,299000000,7000000,23.png
+24,1,2,Thẻ tín dụng Vietinbank Premium Banking MasterCard Platinum,300000000,2000000000,15000000,24.png
+25,1,2,VietinBank Visa Signature,300000000,1000000000,15000000,25.png
+26,1,2,Thẻ tín dụng quốc tế Vietinbank Cremium Visa Platinum,300000000,1000000000,15000000,26.png
+27,2,0,Thẻ tín dụng quốc tế Agribank Visa chuẩn,10000000,50000000,5000000,27.png
+28,2,1,Thẻ tín dụng quốc tế Agribank Visa vàng,100000000,300000000,5000000,28.png
+29,2,1,Thẻ tín dụng quốc tế Agribank MasterCard vàng,100000000,300000000,5000000,29.png
+30,2,1,Thẻ tín dụng quốc tế Agribank JCB Gold,50000000,300000000,5000000,30.png
+31,2,2,Thẻ tín dụng quốc tế Agribank MasterCard Platinum,300000000,500000000,5000000,31.png
+32,3,0,Thẻ BIDV Visa Flexi,1000000,45000000,4000000,32.png
+33,3,1,Thẻ BIDV Visa Precious,10000000,200000000,15000000,33.png
+34,3,1,Thẻ tín dụng BIDV Visa Smile,10000000,200000000,4000000,34.png
+35,3,2,Thẻ tín dụng quốc tế BIDV Mastercard Platinum,80000000,500000000,20000000,35.png
+36,3,2,Thẻ tín dụng quốc tế BIDV Visa Platinum,80000000,500000000,20000000,36.png
+37,3,2,Thẻ tín dụng BIDV Visa Premier,80000000,500000000,15000000,37.png
+38,3,2,Thẻ tín dụng BIDV Vietravel Platinum,50000000,500000000,20000000,38.png
+39,4,0,Thẻ tín dụng nội địa ACB Express,10000000,50000000,5000000,39.png
+40,4,0,Thẻ tín dụng quốc tế ACB Visa chuẩn,20000000,100000000,5000000,40.png
+41,4,0,Thẻ tín dụng quốc tế ACB MasterCard Chuẩn,20000000,100000000,5000000,41.png
+42,4,0,Thẻ tín dụng ACB Visa Business,50000000,500000000,7000000,42.png
+43,4,0,Thẻ tín dụng ACB JCB chuẩn,10000000,50000000,7000000,43.png
+44,4,1,Thẻ tín dụng quốc tế ACB Visa Vàng,50000000,200000000,5000000,44.png
+45,4,1,Thẻ tín dụng quốc tế ACB MasterCard vàng,50000000,200000000,5000000,45.png
+46,4,1,Thẻ tín dụng quốc tế ACB JCB vàng,10000000,70000000,7000000,46.png
+47,4,2,Thẻ tín dụng quốc tế ACB Visa Platinum,50000000,500000000,8000000,47.png
+48,4,2,Thẻ tín dụng quốc tế ACB Visa Signature,10000000,500000000,7000000,48.png
+49,4,2,Thẻ tín dụng quốc tế ACB World MasterCard ,50000000,500000000,8000000,49.png
+50,5,0,Thẻ tín dụng nội địa Sacombank Family,10000000,200000000,5000000,50.png
+51,5,0,Thẻ tín dụng quốc tế Sacombank Visa Ladies First,10000000,200000000,5000000,51.png
+52,5,0,Thẻ tín dụng quốc tế Sacombank Visa Chuẩn,10000000,50000000,5000000,52.png
+53,5,0,Sacombank JCB Classic Card,10000000,20000000,5000000,53.png
+54,5,1,Thẻ tín dụng quốc tế Sacombank UnionPay,10000000,200000000,5000000,54.png
+55,5,1,Thẻ tín dụng Sacombank JCB Ultimate,10000000,300000000,80000000,55.png
+56,5,2,Thẻ tín dụng quốc tế Sacombank Visa Infinite,60000000,500000000,200000000,56.png
+57,5,2,Thẻ tín dụng hoàn tiền Sacombank Visa Platinum Cashback,60000000,1000000000,20000000,57.png
+58,5,2,Thẻ tín dụng Sacombank World MasterCard,10000000,1000000000,60000000,58.png
+59,5,2,Thẻ tín dụng Sacombank Visa Signature,60000000,1000000000,60000000,59.png
+60,6,0,Thẻ tín dụng Quốc tế MB JCB Sakura Classic,10000000,68000000,5000000,60.png
+61,6,1,Thẻ tín dụng MB Visa Gold,69000000,200000000,7000000,61.png
+62,6,1,Thẻ tín dụng Quốc tế MB JCB Sakura Gold,51000000,100000000,7000000,62.png
+63,6,2,Thẻ tín dụng MB Visa Platinum,80000000,1000000000,9000000,63.png
+64,6,2,Thẻ tín dụng Quốc tế MB JCB Sakura Platinum,101000000,5000000000,9000000,64.png
+65,7,0,Thẻ tín dụng Maritime Bank Platinum Blue,10000000,200000000,5000000,65.png
+66,7,0,Thẻ Tín Dụng MSB Visa Online,10000000,50000000,5000000,66.png
+67,7,0,Thẻ tín dụng du lịch Maritime bank Visa,10000000,200000000,12000000,67.png
+68,7,0,Thẻ đồng thương hiệu Lotte Mart - Maritime Bank,1000000000,1000000000000000000,5000000,68.png
+69,7,1,Thẻ tín dụng Maritime Bank Platinum White,50000000,500000000,5000000,69.png
+70,7,2,Thẻ tín dụng Maritime Bank Platinum Black,50000000,1000000000,5000000,70.png
+71,8,0,Thẻ Tín dụng Visa DongA Bank Chuẩn,10000000,70000000,4000000,71.png
+72,8,1,Thẻ Tín dụng DongA Bank Visa Vàng,10000000,150000000,4000000,72.png
+73,9,0,Thẻ tín dụng Eximbank Visa Violet,10000000,100000000,4000000,73.png
+74,9,0,Thẻ tín dụng quốc tế Eximbank JCB Young,10000000,100000000,5000000,74.png
+75,9,1,Thẻ tín dụng Eximbank – MasterCard PayPass hạng vàng,50000000,300000000,5000000,75.png
+76,9,1,Thẻ tín dụng quốc tế Eximbank -Visa hạng vàng,50000000,300000000,5000000,76.png
+77,9,1,Thẻ tín dụng quốc tế Eximbank JCB vàng,50000000,300000000,5000000,77.png
+78,9,2,Thẻ Eximbank - Visa Platinum Cash Back,100000000,1000000000,15000000,78.png
+79,9,2,Thẻ tín dụng quốc tế Eximbank-Visa Platinum,100000000,1000000000,15000000,79.png
+80,9,2,Thẻ tín dụng quốc tế Eximbank - One World MasterCard,100000000,1000000000,15000000,80.png
+81,9,2,Thẻ tín dụng quốc tế Eximbank - JCB Platinum Travel Cash Back,100000000,1000000000,15000000,81.png
+82,10,0,Thẻ tín dụng quốc tế Nam Á MasterCard Standard,10000000,100000000,4000000,82.png
+83,10,0,Thẻ tín dụng nội địa Nam A Bank Happy Card,10000000,300000000,15000000,83.png
+84,10,0,Thẻ tín dụng Nam A Bank JCB Standard,10000000,100000000,6000000,84.png
+85,10,0,Thẻ tín dụng nội địa Cash Card Nam A Bank,10000000,100000000,4000000,85.png
+86,10,1,Thẻ tín dụng quốc tế Nam Á MasterCard Gold,50000000,300000000,6000000,86.png
+87,10,2,Thẻ tín dụng Nam A Bank JCB Platinum,100000000,1000000000,8000000,87.png
+88,11,0,Thẻ VPBANK MASTERCARD MC2 CREDIT,10000000,70000000,4000000,88.png
+89,11,0,Thẻ tín dụng VPBank Number 1,10000000,30000000,4000000,89.png
+90,11,0,Thẻ tín dụng quốc tế MobiFone-VPBank Classic MasterCard,200000000,1000000000,15000000,90.png
+91,11,1,Thẻ tín dụng VPLady Titanium Mastercard,70000000,500000000,7000000,91.png
+92,11,1,Thẻ tín dụng VPBank StepUP Titanium,70000000,500000000,7000000,92.png
+93,11,1,Thẻ tín dụng quốc tế MobiFone-VPBank Titanium MasterCard,200000000,1000000000,15000000,93.png
+94,11,2,Thẻ Đồng thương hiệu Vietnam Airlines - VPBank Platinum Master Card,200000000,1000000000,12000000,94.png
+95,11,2,Thẻ tín dụng VPBank Mastercard Platinum,200000000,1000000000,15000000,95.png
+96,11,2,Thẻ tín dụng quốc tế VPBank Platinum Cashback,100000000,1000000000,15000000,96.png
+97,11,2,Thẻ tín dụng quốc tế VPBank Platinum Loyalty,100000000,1000000000,15000000,97.png
+98,11,2,Thẻ tín dụng quốc tế MobiFone-VPBank Platium MasterCard,200000000,1000000000,15000000,98.png
+99,12,0,Thẻ tín dụng VIB Cash Back,50000000,600000000,15000000,99.png
+100,12,0,Thẻ tín dụng VIB Financial Free,10000000,50000000,6000000,100.png
+101,12,0,Thẻ tín dụng VIB Family Link,15000000,50000000,15000000,101.png
+102,12,0,Thẻ tín dụng VIB Happy Drive,50000000,600000000,12000000,102.png
+103,12,1,Thẻ tín dụng VIB Rewards Unlimited,10000000,45000000,10000000,103.png
+104,12,1,Thẻ tín dụng quốc tế VIB Zero Interest Rate,10000000,600000000,12000000,104.png
+105,13,0,Thẻ Tín dụng quốc tế SeABank Visa chuẩn,10000000,50000000,4000000,105.png
+106,13,1,Thẻ Tín dụng quốc tế SeABank Visa Vàng,50000000,200000000,4000000,106.png
+107,13,1,Thẻ tín dụng quốc tế SeALady Mastercard Cashback Titanium,50000000,1000000000,4000000,107.png
+108,13,2,Thẻ tín dụng SeAGolf Platinum,50000000,1000000000,12000000,109.png
+109,13,2,Thẻ Tín dụng quốc tế SeABank Visa Platinum,100000000,1000000000,12000000,110.png
+110,13,2,Thẻ tín dụng Seabank Mercedes Visa Platinum,50000000,1000000000,12000000,111.png
+111,14,0,Thẻ tín dụng quốc tế HDBank Visa Chuẩn,10000000,50000000,4000000,112.png
+112,14,0,Thẻ tín dụng nội địa HDBank Flex Card Sliver,10000000,50000000,4000000,113.png
+113,14,0,Thẻ tín dụng quốc tế Đồng thương hiệu HDBank - VietJet Ai,10000000,50000000,4000000,114.png
+114,14,1,Thẻ tín dụng quốc tế HDBank Visa Vàng,50000000,300000000,4000000,115.png
+115,14,1,Thẻ tín dụng nội địa HDBank Flex Card Gold,50000000,300000000,4000000,116.png
+116,15,0,Thẻ tín dụng Viet Capital Visa chuẩn,10000000,100000000,4000000,117.png
+117,15,2,Thẻ tín dụng Viet Capital Visa bạch kim,100000000,1000000000,12000000,118.png
+118,16,0,Thẻ tín dụng quốc tế OCB MasterCard chuẩn,10000000,50000000,4000000,119.png
+119,16,0,Thẻ tín dụng nội địa OCB Cash Card,5000000,50000000,4000000,120.png
+120,16,0,Thẻ tín dụng quốc tế OCB Selfie For You hạng chuẩn,10000000,50000000,4000000,121.png
+121,16,0,Thẻ tín dụng liên kết OCB & EVN,50000000,1000000000000000000,4000000,122.png
+122,16,1,Thẻ tín dụng quốc tế OCB MasterCard vàng,50000000,100000000,6000000,123.png
+123,16,1,Thẻ tín dụng quốc tế OCB Selfie For You Hạng Vàng,50000000,100000000,6000000,124.png
+124,16,2,Thẻ Tín Dụng Đặc Quyền Dành Cho Khách Hàng Ưu Tiên,50000000,500000000,8000000,125.png
+125,16,2,Thẻ tín dụng OCB JCB Platinum,100000000,500000000,8000000,126.png
+126,16,2,Thẻ tín dụng OCB Mastercard Platinum,100000000,500000000,8000000,127.png
+127,16,3,Thẻ Tín Dụng OCB Jetstar,500000000,1000000000000000000,6000000,128.png
+128,17,0,Thẻ tín dụng quốc tế SCB MasterCard chuẩn,10000000,50000000,5000000,129.png
+129,17,0,Thẻ tín dụng quốc tế SCB Visa chuẩn,5000000,30000000,5000000,130.png
+130,17,1,Thẻ tín dụng quốc tế SCB MasterCard vàng,20000000,200000000,7000000,131.png
+131,17,1,Thẻ tín dụng quốc tế SCB Visa vàng,20000000,200000000,7000000,132.png
+132,17,2,Thẻ tín dụng Quốc tế SCB Visa Platium,60000000,1000000000,15000000,133.png
+133,17,2,Thẻ tín dụng SCB World MasterCard,100000000,1000000000,25000000,134.png
+134,17,2,Thẻ Tín Dụng Quốc Tế SCB Premier Mastercard World,100000000,1000000000,15000000,135.png
+135,17,2,Thẻ Tín Dụng Quốc Tế SCB S-CARE,100000000,1000000000,12000000,136.png
+136,18,0,Thẻ tín dụng quốc tế VietABank Visa Chuẩn,20000000,100000000,4000000,137.png
+137,18,1,Thẻ tín dụng quốc tế VietABank Visa vàng,50000000,300000000,4000000,138.png
+138,19,0,Thẻ tín dụng VinaPhone-SHB MasterCard,10000000,50000000,4000000,139.png
+139,19,0,Thẻ tín dụng quốc tế SHB MasterCard chuẩn,10000000,50000000,5000000,140.png
+140,19,0,Thẻ tín dụng Huba - SHB MasterCard,10000000,50000000,5000000,141.png
+141,19,1,Thẻ tín dụng quốc tế SHB MasterCard vàng,50000000,500000000,5000000,142.png
+142,19,2,Thẻ Tín dụng SHB Visa Platinum,50000000,2000000000,30000000,143.png
+143,20,0,Thẻ tín dụng ABBANK Visa Couple++,50000000,150000000,6000000,144.png
+144,20,1,Thẻ tín dụng quốc tế ABBANK Visa Contactless Credit - Gold,50000000,100000000,6000000,145.png
+145,20,2,Thẻ tín dụng quốc tế ABBANK Visa Contactless Platinum,100000000,500000000,6000000,146.png
+146,21,0,Thẻ tín dụng quốc tế NCB Visa Hạng Chuẩn,5000000,50000000,4000000,147.png
+147,21,0,Thẻ tín dụng NCB Visa Woman,5000000,500000000,4000000,148.png
+148,21,1,Thẻ tín dụng quốc tế NCB Visa Hạng Vàng,30000000,100000000,6000000,149.png
+149,21,2,Thẻ tín dụng quốc tế NCB Visa Hạng Bạch Kim,70000000,2000000000,8000000,150.png
+150,22,0,Thẻ tín dụng quốc tế Kienlongbank Visa Classic,5000000,30000000,4000000,151.png
+151,22,0,Thẻ tín dụng quốc tế Kienlongbank JCB Classic,5000000,30000000,4000000,152.png
+152,22,1,Thẻ tín dụng quốc tế Kienlongbank Visa Gold,30000000,100000000,4000000,153.png
+153,22,1,Thẻ tín dụng quốc tế Kienlongbank JCB Gold,30000000,100000000,4000000,154.png
+154,22,2,Thẻ tín dụng quốc tế Kienlongbank Visa Platinum,100000000,500000000,12000000,155.png
+155,22,2,Thẻ tín dụng quốc tế Kienlongbank JCB Platinum,100000000,500000000,12000000,156.png
+156,23,0,Thẻ Vietbank Visa My Style,5000000,50000000,4000000,157.png
+157,23,1,Thẻ Vietbank Visa Platinum,50000000,1000000000,4000000,158.png
+158,23,2,Thẻ Vietbank Visa Luxury Platinum,200000000,1000000000,12000000,159.png
+159,24,0,Thẻ tín dụng quốc tế Visa OceanBank tín chấp Classic,5000000,20000000,4000000,160.png
+160,24,0,Thẻ tín dụng quốc tế Visa OceanBank có bảo đảm Classic,5000000,20000000,4000000,161.png
+161,24,1,Thẻ tín dụng quốc tế Visa OceanBank tín chấp (Gold),20000000,70000000,6000000,162.png
+162,24,1,Thẻ tín dụng quốc tế Visa OceanBank có bảo đảm (Gold),20000000,70000000,6000000,163.png
+163,25,0,Thẻ tín dụng Quốc tế PG Bank Visa Chuẩn,10000000,60000000,5000000,164.png
+164,25,1,Thẻ tín dụng Quốc tế PG Bank Visa vàng,30000000,1000000000,7000000,165.png
+165,26,0,Thẻ tín dụng Quốc tế LienVietPostBank MasterCard chuẩn,10000000,50000000,3000000,166.png
+166,26,1,Thẻ tín dụng Quốc tế LienVietPostBank MasterCard vàng,50000000,100000000,3000000,167.png
+167,27,0,Thẻ tín dụng quốc tế TPBank Visa FreeGo,5000000,300000000,4000000,168.png
+168,27,0,Thẻ tín dụng quốc tế TPBank Visa chuẩn,10000000,40000000,5000000,169.png
+169,27,1,Thẻ tín dụng quốc tế TPBank Visa vàng,50000000,300000000,10000000,170.png
+170,27,2,Thẻ tín dụng quốc tế TPBank Visa Platinum,70000000,1000000000,15000000,171.png
+171,27,2,Thẻ tín dụng đồng thương hiệu Mobifone- TPbank Visa Platinum,1000000000,1000000000000000000,5000000,172.png
+172,27,2,Thẻ tín dụng TPbank World MasterCard Club Privé,90000000,2000000000,35000000,173.png
+173,27,2,Thẻ tín dụng TPbank World MasterCard Golf Privé,90000000,2000000000,35000000,174.png
+174,28,1,Thẻ tín dụng BAOVIET Bank Visa hạng vàng,50000000,200000000,5000000,175.png
+175,29,0,Thẻ tín dụng quốc tế VRBank Visa Chuẩn,10000000,50000000,4000000,176.png
+176,29,0,Thẻ tín dụng Visa VRBank hạng vàng,10000000,150000000,4000000,177.png
+177,30,0,Thẻ Tín Dụng HSBC Visa Chuẩn,10000000,100000000,6000000,178.png
+178,30,1,Thẻ tín dụng HSBC Visa Cash Back,50000000,500000000,9000000,179.png
+179,30,2,Thẻ tín dụng HSBC Premier MasterCard,10000000,1000000000,100000000,180.png
+180,30,2,Thẻ Tín Dụng HSBC Visa Bạch Kim,50000000,1000000000,18000000,181.png
+181,31,0,Thẻ tín dụng SC Platinum CashBack,10000000,100000000,10000000,182.png
+182,31,1,Thẻ Tín Dụng SC WorldMiles,49000000,495000000,30000000,183.png
+183,31,2,Thẻ tín dụng SC Priority WorldMiles,1000000,1000000000,15000000,184.png
+184,32,0,Thẻ Tín Dụng Shinhan Visa Cá Nhân Hi-Point Chuẩn,10000000,100000000,7000000,185.png
+185,32,0,Thẻ tín dụng quốc tế cá nhân Shinhan E-Card,10000000,100000000,7000000,186.png
+186,32,0,Thẻ Tín Dụng Shinhan Visa Cá Nhân Cash Back Chuẩn,10000000,100000000,7000000,187.png
+187,32,0,Thẻ tín dụng quốc tế Shinhan Bank Visa cá nhân hạng chuẩn,10000000,100000000,7000000,188.png
+188,32,1,Thẻ tín dụng quốc tế Visa Vàng Shinhan Bank,49000000,495000000,12000000,189.png
+189,32,1,Thẻ Tín Dụng Shinhan Visa Cá Nhân Hi-Point Vàng,49000000,495000000,12000000,190.png
+190,32,1,Thẻ Tín Dụng Shinhan Visa Cá Nhân Cash Back Vàng,49000000,495000000,12000000,191.png
+191,32,2,Thẻ Tín Dụng Shinhan Visa Cá Nhân Hi-Point Bạch Kim,100000000,1000000000,20000000,192.png
+192,32,2,Thẻ Tín Dụng Shinhan Visa Cá Nhân Travel Bạch Kim,100000000,1000000000,20000000,193.png
+193,32,2,Thẻ tín dụng quốc tế Shinhan Visa PWM hạng Bạch kim,300000000,1000000000,20000000,194.png
+194,32,2,Thẻ Tín Dụng Shinhan Visa Cá Nhân Cash Back Bạch Kim,100000000,1000000000,20000000,195.png
+195,33,0,Thẻ Citi Simplicity+,10000000,70000000,8000000,196.png
+196,33,2,Thẻ tín dụng Citibank Cash Back Mastercard Platinum,24000000,900000000,15000000,197.png
+197,33,2,Thẻ tín dụng Citi PremierMiles World Mastercard,60000000,900000000,20000000,198.png
+198,34,0,Thẻ tín dụng Quốc tế PVcomBank MasterCard Smart,10000000,50000000,5000000,199.png
+199,34,1,Thẻ tín dụng Quốc tế PVcomBank MasterCard Gold,10000000,500000000,5000000,200.png
+200,34,2,Thẻ tín dụng Quốc tế PVcomBank MasterCard Platinum,10000000,1000000000,5000000,201.png
+201,35,0,Thẻ Woori Bank Visa Classic,10000000,100000000,7000000,202.png
+202,35,2,Thẻ Woori bank Visa Platinum,50000000,1000000000,20000000,203.png
